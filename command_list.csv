@@ -1,0 +1,123 @@
+    1  user.name Katya1705
+    2  user.email
+    3  user.email kbaltyan2010@gmail.com
+    4  git clone https://github.com/Katya1705/HW_10.git
+    5  git clone https://github.com/Katya1705/HW_10.git
+    6  clear
+    7  git clone https://github.com/Katya1705/HW_10.git
+    8  git clone https://github.com/Katya1705/HW_10.git
+    9  clear
+   10  mkdir repository1
+   11  cd repository1
+   12  git clone https://github.com/Katya1705/HW_10.git
+   13  git status
+   14  git add
+   15  clear
+   16  touch .gitignore
+   17  git add .gitignore
+   18  git commit -m "Add .gitignore"
+   19  git push origin main
+   20  text_ignore.txt
+   21  git add 
+   22  cear
+   23  clear
+   24  touch .gitignore
+   25  git add .gitignore
+   26  git commit -m "Add .gitignore"
+   27  git push origin main
+   28  ciear
+   29  clear
+   30  git clone https://github.com/Katya1705/HW_10.git
+   31  clear
+   32  pwt
+   33  clear
+   34  mkdir repository1
+   35  clear
+   36  git clone https://github.com/Katya1705/HW_10.git
+   37  clear
+   38  touch .gitignore
+   39  clear
+   40  cd  text_ignore.txt
+   41  clear
+   42  cd repository1/
+   43  cd Hw_10/
+   44  clear
+   45  git clone https://github.com/Katya1705/HW_10.git
+   46  clear
+   47  cd repository1/
+   48  clear
+   49  mkdir repository1
+   50  clear
+   51  git clone https://github.com/Katya1705/HW_10.git
+   52  cd
+   53  git status
+   54  text_ignore.txt git status
+   55  git add
+   56  cd HW_10
+   57  touch text_ignore.txt
+   58  git add_.
+   59  git--help
+   60  'git --help'.
+   61  help
+   62  git add-.
+   63  git add .
+   64  clear
+   65  git clone https://github.com/Katya1705/HW_10.git
+   66  cd HW_10
+   67  touch text_ignore.txt
+   68  git status
+   69  git add .
+   70  git status
+   71  git add .
+   72  git add .
+   73  main
+   74  ( main )
+   75  ciear
+   76  clear
+   77  main
+   78  cd HW_10 ( main)
+   79  cd HW_10 (main)
+   80  cd HW_10 main
+   81  clear
+   82  git clone https://github.com/Katya1705/HW_10.git
+   83  clear
+   84  git clone https://github.com/Katya1705/HW_10.git
+   85  cd HW_10
+   86  touch text_ignore.txt
+   87  git status
+   88  git add .
+   89  git status
+   90  git add .
+   91  cd HW_10  (main)
+   92   cd HW_10 main
+   93  git status
+   94  git status
+   95  git clone https://github.com/Katya1705/HW_10.git
+   96  cd HW_10
+   97  touch text_ignore.txt
+   98  git status
+   99  git status
+  100  text_ignore.txt
+  101  git status
+  102  git add .
+  103  git commit -m "Add .gitignore"
+  104  git push origin main
+  105  clear
+  106  mkdir repository1
+  107  cd repository1/
+  108  git config --global user.name
+  109   git config --global user.name Katya1705
+  110  git config --global user.email kbaltyan2010@gmail.com
+  111  git clone https://github.com/Katya1705/HW_10.git
+  112  touch .gitignore
+  113  git add .gitignore
+  114  git commit -m "Add .gitignore"
+  115  git push origin main
+  116  git clone https://github.com/Katya1705/HW_10.git
+  117  cd HW_10
+  118  touch text_ignore.txt
+  119  git status
+  120  git add .
+  121  git commit
+  122  cd HW_10main
+  123  history > command_list.csv
